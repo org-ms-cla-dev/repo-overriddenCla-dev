@@ -4,29 +4,4 @@
 
 # Even small change requires a cla
 
-# Make it bigger
-
-
-
-Make it bigger
-
-
-Make it bigger
-
-
-
-Make it bigger
-
-
-
-
-Make it bigger
-
-
-
-
-Make it bigger
-
-
-
-Make it bigger
+# Make it smaller
